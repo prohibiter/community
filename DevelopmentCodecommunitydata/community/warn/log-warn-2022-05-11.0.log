@@ -1,0 +1,1 @@
+2022-05-11 17:55:58,675 WARN [main] o.a.k.c.NetworkClient [NetworkClient.java:671] [Consumer clientId=consumer-1, groupId=test-consumer-group] Connection to node -1 could not be established. Broker may not be available.

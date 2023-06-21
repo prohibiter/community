@@ -1,0 +1,5 @@
+2022-05-12 15:54:01,064 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [E03F74D634B4D167DB6EB6A971450DFF]
+2022-05-12 16:37:13,648 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [F06270FDCC85BD9A3A3F731D007DB411]
+2022-05-12 16:39:57,560 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [F06270FDCC85BD9A3A3F731D007DB411]
+2022-05-12 16:43:39,275 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [F06270FDCC85BD9A3A3F731D007DB411]
+2022-05-12 16:49:44,121 WARN [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Cannot deserialize session attribute [SPRING_SECURITY_CONTEXT] for session [F06270FDCC85BD9A3A3F731D007DB411]
